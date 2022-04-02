@@ -23,4 +23,5 @@
   ('k' for the drum).
 
 ## Demos
-https://github.com/GhadaDx/Musical-Instruments-Emphasizer/tree/main/demos
+https://user-images.githubusercontent.com/42315079/157136127-c7640c91-ab7d-496b-8661-5454403954a0.mp4
+
